@@ -1,6 +1,6 @@
 # Selenium Docker Runner
 
-This repository contains the **Jenkinsfile**, **Dockerfile**, and **Docker Compose** configurations required to run the Selenium tests from the [selenium-docker](https://github.com/Moh88CS/selenium-docker) repository. It sets up the infrastructure for distributed testing using **Jenkins**, **Docker**, and **Selenium Grid** across an **AWS EC2 fleet**.
+This repository contains the **Jenkinsfile** and **Docker Compose** configurations required to run the Selenium tests from the [selenium-docker](https://github.com/Moh88CS/selenium-docker) repository. It sets up the infrastructure for distributed testing using **Jenkins**, **Docker**, and **Selenium Grid** across an **AWS EC2 fleet**.
 
 ## Key Features
 
