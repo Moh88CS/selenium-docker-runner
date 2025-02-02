@@ -18,9 +18,11 @@ Before you begin, ensure you have the following installed:
 - **AWS EC2 Instances**: For distributed test execution.
 - **Git**: To clone the repository.
 
-## Setup Instructions
+## Setup Instructions (Made to run on AWS cloud machines via script)
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Moh88CS/selenium-docker-runner.git
    cd selenium-docker-runner
+   docker-compose up -d
+
