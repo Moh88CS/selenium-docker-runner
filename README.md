@@ -26,3 +26,5 @@ Before you begin, ensure you have the following installed:
    cd selenium-docker-runner
    docker-compose up -d
 
+## IMPORTANT NOTICE
+I longer have any access to these environments and I think it's hard to replicate and maintain without that. Please statically view my work as it contains all the needed info about how this all is supposed to work (and used to). Please check out the files and scripts 
